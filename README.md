@@ -132,4 +132,4 @@ This project is open-sourced under the [MIT License](LICENSE).
    git push origin main
 ````
 
-Let me know if you want a badge section or example output screenshots added.
+
